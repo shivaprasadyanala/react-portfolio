@@ -21,6 +21,7 @@
 .portfolio__item-image {
     border-radius: 1.5rem;
     overflow: hidden;
+    height: 270px;
 }
 
 .portfolio__item h3 {
@@ -34,6 +35,19 @@
     margin-bottom: 1rem;
 }
 
+.paused-overlay {
+    font-size: 3rem;
+    /* background: transparent; */
+    backdrop-filter: blur(8px);
+    height: 100%;
+    color: rgb(93, 87, 87);
+    transition: var(--transition);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 /*================ MEDIA QUERIES (MEDIUM DEVICES) ========*/
 
@@ -41,6 +55,11 @@
     .portfolio__container {
         grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
+    }
+    .portfolio__item-image {
+        border-radius: 1.5rem;
+        overflow: hidden;
+        height: 140px;
     }
 }
 
@@ -51,5 +70,10 @@
     .portfolio__container {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+    .portfolio__item-image {
+        border-radius: 1.5rem;
+        overflow: hidden;
+        height: 230px;
     }
 }

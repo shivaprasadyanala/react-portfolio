@@ -35,7 +35,7 @@ const about = () => {
      </div>
 
      <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora blanditiis consequuntur esse exercitationem nulla iusto repellendus error corrupti voluptates cumque harum aliquid, voluptatum suscipit beatae? Inventore mollitia debitis commodi quae.
+      I am passionate and curious to learn new mindset student persuing graduation in sri indu college of engineering looking forward to work as software engineer.I am good at front-end,back-end and database and having decent problem solving skills.Being good at communication skills and able to work in bottle neck situation looking for a oppurtunity work.
      </p>
      <a href="#contact" className='btn btn-primary'>Let's talk</a>
     </div>
