@@ -35,19 +35,19 @@ const Contact = () => {
             <BsLinkedin className='contact__option-icon' />
             <h4>LinkedIn</h4>
             <h5>shivaprasadyanala</h5>
-            <a href="https://www.linkedin.com/in/yanala-shiva-prasad-reddy/" target="_blank">Send a message</a>
+            <a href="https://www.linkedin.com/in/yanala-shiva-prasad-reddy/" target="_blank" rel="noreferrer">Send a message</a>
           </article>
           <article className='contact__option'>
             <BsTwitter className='contact__option-icon' />
             <h4>Twitter</h4>
             <h5>@Shivaprasadyan2</h5>
-            <a href="https://twitter.com/Shivaprasadyan2" target="_blank">Send a message</a>
+            <a href="https://twitter.com/Shivaprasadyan2" rel="noopener noreferrer" target="_blank" >Send a message</a>
           </article>
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon' />
             <h4>whatsapp</h4>
             <h5>7013550898</h5>
-            <a href="https://api.whatsapp.com/send?&phone=7013550898" target="_blank">Send a message</a>
+            <a href="https://api.whatsapp.com/send?&phone=7013550898" target="_blank" rel="noreferrer">Send a message</a>
           </article>
         </div>
         {/* end of contact options */}
@@ -58,7 +58,7 @@ const Contact = () => {
           <button type='submit' className='btn btn-primary'>send message</button>
         </form>
       </div>
-    </section>
+    </section >
   )
 }
 
