@@ -6,6 +6,7 @@ import { BsStarFill } from 'react-icons/bs'
 import { SiCodechef } from 'react-icons/si'
 import { SiCodeforces } from 'react-icons/si'
 import { SiHackerrank } from 'react-icons/si'
+import { SiGithub } from 'react-icons/si'
 const services = () => {
  return (
   <section id='services'>
@@ -16,7 +17,7 @@ const services = () => {
      <article className='coding__profile'>
       <SiLeetcode className='coding__profile-icon' />
       <h4>Leetcode</h4>
-      <h5>250+ problems</h5>
+      <h5>400+ problems</h5>
       <a href="https://leetcode.com/shivaprasadyanala/">view profile</a>
      </article>
      <article className='coding__profile'>
@@ -41,6 +42,12 @@ const services = () => {
       <SiHackerrank className='coding__profile-icon' />
       <h4>Hackerrank</h4>
       <h5>3 <BsStarFill /></h5>
+      <a href="https://www.hackerrank.com/shivaprasadyana1">view profile</a>
+     </article>
+     <article className='coding__profile'>
+      <SiGithub className='coding__profile-icon' />
+      <h4>Github</h4>
+      <h5>80+ repositories</h5>
       <a href="https://www.hackerrank.com/shivaprasadyana1">view profile</a>
      </article>
     </div>

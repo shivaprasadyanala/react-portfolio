@@ -35,7 +35,7 @@ const about = () => {
      </div>
 
      <p>
-      I am passionate and curious to learn new mindset student persuing graduation in sri indu college of engineering looking forward to work as software engineer.I am good at front-end,back-end and database and having decent problem solving skills.Being good at communication skills and able to work in bottle neck situation looking for a oppurtunity work.
+      I am passionate and curious to learn new mindset student persuing graduation in sri indu college of engineering looking forward to work as software engineer.I am good at front-end,back-end and database and having desent problem solving skills.Being good at communication skills and able to work in bottle neck situation looking for a oppurtunity work.I am good at problem solving skills.
      </p>
      <a href="#contact" className='btn btn-primary'>Let's talk</a>
     </div>

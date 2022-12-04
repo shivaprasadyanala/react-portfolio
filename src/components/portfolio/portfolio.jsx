@@ -26,7 +26,7 @@ const portfolio = () => {
      <div className="portfolio__item-cta">
 
       <a href="https://github.com/shivaprasadyanala/react-portfolio" target='_blank' className='btn'>Github</a>
-      <a href="https://github.com/shivaprasadyanala/react-portfolio" className='btn btn-primary' target='_blank'>Live Demo</a>
+      <a href="https://shivaprasadyanala.netlify.app/" className='btn btn-primary' target='_blank'>Live Demo</a>
      </div>
 
     </article>
@@ -62,7 +62,7 @@ const portfolio = () => {
      <div className="portfolio__item-cta">
 
       <a href="https://github.com/shivaprasadyanala/hackerforet-faculty-student" target='_blank' className='btn'>Github</a>
-      <a href="https://github.com/shivaprasadyanala/hackerforet-faculty-student" className='btn btn-primary' target='_blank'>Live Demo</a>
+      <a href="https://github.com/shivaprasadyanala" className='btn btn-primary' target='_blank'>Live Demo</a>
      </div>
 
     </article>
