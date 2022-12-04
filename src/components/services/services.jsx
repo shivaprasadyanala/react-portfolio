@@ -48,7 +48,7 @@ const services = () => {
       <SiGithub className='coding__profile-icon' />
       <h4>Github</h4>
       <h5>80+ repositories</h5>
-      <a href="https://www.hackerrank.com/shivaprasadyana1">view profile</a>
+      <a href="https://github.com/shivaprasadyanala">view profile</a>
      </article>
     </div>
    </div>
